@@ -24,6 +24,7 @@
 
 <img src="https://i.imgur.com/5O1lWxE.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
+
 # -----
 
 ## Installing the Windows 10 ISO on our Virtual Box.
