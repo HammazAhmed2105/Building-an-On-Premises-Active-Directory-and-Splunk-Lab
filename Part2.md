@@ -18,6 +18,6 @@
 
 <img src="https://i.imgur.com/ZKEaGrQ.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
-- Keep the default option for the next step, and then we will be presented with the below options. Choose ISO Image.
+- Keep the default option for the next step, and then we will be presented with the below options. Choose ISO Image. Choose your preferred location to store this file, and wait till the installation is done.
 
 <img src="https://i.imgur.com/5O1lWxE.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
