@@ -10,8 +10,10 @@
 
 <img src="https://i.imgur.com/sQ0u5iB.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 
-- Click on the Downloaded file, and click  next.
+- Click on the Downloaded file, and click  Accept.
 
 <img src="https://i.imgur.com/7KQv4Ot.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 
-- 
+- As shown below, choose the 2nd option, since we are interested in making our own ISO, and not upgrading our own system.
+
+<img src="https://i.imgur.com/ZKEaGrQ.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
