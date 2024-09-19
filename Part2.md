@@ -39,7 +39,7 @@
 
 <img src="https://i.imgur.com/H1wYsft.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
-
+- Our configuration is done. Click finish.
 
 
 
