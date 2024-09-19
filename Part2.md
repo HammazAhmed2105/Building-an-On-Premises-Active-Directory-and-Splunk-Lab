@@ -55,7 +55,10 @@
 - In the next screen, choose Custom Installation.
 - Click next, and we are done with the windows installation.
 
+## Installing Windows Server 2022
 
+- Use the below link. https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022
+- 
 
 
 
