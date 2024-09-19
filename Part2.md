@@ -31,9 +31,14 @@
 
 - Now that the download is done we will install the Windows 10 ISO file on our Virtual Box.
 - Open Virtual Box, Click on new, select whatever location you want your files to saved in. Also select the ISO image from the appropriate location.
-- Make sure you click the "Skip unattended installation", this helps us to install the operating system, manually.
+- Make sure you click the "Skip unattended installation", this helps us to install the operating system, manually. Hit next.
 
 <img src="https://i.imgur.com/H1wYsft.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+
+- I'm keeping the memory as 4GB, and 1 core is used. You can definitely increase that according to your own PC.
+
+<img src="https://i.imgur.com/H1wYsft.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+
 
 
 
