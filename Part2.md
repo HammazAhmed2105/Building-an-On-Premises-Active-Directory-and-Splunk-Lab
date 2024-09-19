@@ -60,7 +60,9 @@
 ## Installing Windows Server 2022
 
 - Use the below link. https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022
-- 
+- Click on Download ISO.
+
+<img src="https://i.imgur.com/JNwgVkP.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
 
 
