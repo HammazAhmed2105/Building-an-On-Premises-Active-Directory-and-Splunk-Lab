@@ -50,6 +50,11 @@
 
 <img src="https://i.imgur.com/XJmcI2B.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
+- Click next, Install now, and choose "I don't have a product key" from the bottom pane.
+- Choose Windows 10 Pro from the next window.
+- In the next screen, choose Custom Installation.
+- Click next, and we are done with the windows installation.
+
 
 
 
