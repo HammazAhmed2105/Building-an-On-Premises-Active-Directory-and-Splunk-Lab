@@ -64,7 +64,10 @@
 
 <img src="https://i.imgur.com/JNwgVkP.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
+- Fill in the information that's asked in the next page.
+- Choose the  64 bit edition as shown below.
 
+<img src="https://i.imgur.com/QX9SJ52.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
 
 
