@@ -46,7 +46,9 @@
 - Click on Start to power up our VM.
 <img src="https://i.imgur.com/cCWDZSQ.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
+- We will be shown with the below screen.
 
+<img src="https://i.imgur.com/XJmcI2B.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
 
 
