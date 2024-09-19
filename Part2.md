@@ -41,7 +41,10 @@
 
 - Our configuration is done. Click finish.
 
+## Powering on our Windows VM, and configruing it.
 
+- Click on Start to power up our VM.
+<img src="https://i.imgur.com/cCWDZSQ.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
 
 
