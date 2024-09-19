@@ -16,4 +16,8 @@
 
 - As shown below, choose the 2nd option, since we are interested in making our own ISO, and not upgrading our own system.
 
-<img src="https://i.imgur.com/ZKEaGrQ.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZKEaGrQ.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+
+- Keep the default option for the next step, and then we will be presented with the below options. Choose ISO Image.
+
+<img src="https://i.imgur.com/5O1lWxE.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
