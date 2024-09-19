@@ -10,6 +10,8 @@
 
 <img src="https://i.imgur.com/sQ0u5iB.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 
-- Click on the Downloaded file, and click hitting next or accept for the default settings.
+- Click on the Downloaded file, and click  next.
 
 <img src="https://i.imgur.com/7KQv4Ot.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
+
+- 
