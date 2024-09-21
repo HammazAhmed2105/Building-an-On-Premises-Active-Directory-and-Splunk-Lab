@@ -112,9 +112,11 @@
 
 <img src="https://i.imgur.com/oySDWDC.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
+- Choose your username, server name, and passwords according to whatever you want.
+- The next screen asks if you want to choose Ubuntu pro, you can skip this part.
+- Click **done** from the bottom menu till the setup starts installing. 
 
-
-
+<img src="https://i.imgur.com/it0lIXE.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 
 
