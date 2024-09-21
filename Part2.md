@@ -92,6 +92,7 @@
 
 <img src="https://i.imgur.com/WTiYuqn.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
+# -----
 
 # Installing Splunk Server
 
@@ -99,7 +100,6 @@
 - Click on Products and choose Ubuntu server.
 
 <img src="https://i.imgur.com/Btm0SpE.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-
 
 
 
