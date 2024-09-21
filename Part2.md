@@ -79,7 +79,10 @@
 
 <img src="https://i.imgur.com/XjxoEvI.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
+- Click on Next, followed by Install now.
+- From the below screen, make sure you choose the 2nd option, otherwise you will only get a CLI, and no GUI.
 
+<img src="https://i.imgur.com/sV4GSNx.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
 
 
