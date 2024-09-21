@@ -84,8 +84,9 @@
 
 <img src="https://i.imgur.com/sV4GSNx.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
+- Proceed to agree to the terms and condition. From the next screen choose, Custom installation.
 
-
+<img src="https://i.imgur.com/GRDyXcp.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
 
 
