@@ -70,10 +70,14 @@
 <img src="https://i.imgur.com/QX9SJ52.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
 - Once the file is downloaded, open Virtual box, and click on new.  Give a name to your Server, select the storage folder, and select the previously downloaded Server's ISO image.
-- Make sure you click **Skip unattended Installation**
+- Make sure you click **Skip unattended Installation**. Hit Next.
 
 <img src="https://i.imgur.com/Gtcyhlp.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
+- As for the Hardware I chose 4MB, and 1 CPU core, and harddisk as 50 gigs.
+- That's all. Hit Finish and Click on Start to boot up your Virtual Server.
+
+<img src="https://i.imgur.com/XjxoEvI.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
 
 
