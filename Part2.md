@@ -69,9 +69,10 @@
 
 <img src="https://i.imgur.com/QX9SJ52.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
+- Once the file is downloaded, open Virtual box, and click on new.  Give a name to your Server, select the storage folder, and select the previously downloaded Server's ISO image.
+- Make sure you click **Skip unattended Installation**
 
-
-
+<img src="https://i.imgur.com/Gtcyhlp.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
 
 
