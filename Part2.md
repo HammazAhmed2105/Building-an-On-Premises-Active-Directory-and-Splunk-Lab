@@ -129,8 +129,9 @@
 <img src="https://i.imgur.com/RKCAcxD.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 - We will upgrade and update our splunk server. Use the below command.
+```Powershell
 - **sudo apt-get update && sudo apt-get upgrade -y**
-
+```
 
 
 
