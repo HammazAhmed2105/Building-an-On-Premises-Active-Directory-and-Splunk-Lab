@@ -110,7 +110,7 @@
 - Click on Finish, and hit **Start** to power on your Splunk Server.
 - Once the VM starts, continue clicking on the default option till you're presented with the below screen.
 
-<img src="https://i.imgur.com/oySDWDC.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oySDWDC.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 
 
