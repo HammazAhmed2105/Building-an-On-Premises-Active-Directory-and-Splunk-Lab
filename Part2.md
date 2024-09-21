@@ -123,7 +123,10 @@
 
 <img src="https://i.imgur.com/4F07fD6.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
+- Soon you will be shown a splunk login interface as shown below. Use the username and password we previously configured in this step, to login.
+- Note that once you enter the password, it wont be shown for security purposes.
 
+<img src="https://i.imgur.com/RKCAcxD.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 
 
