@@ -118,7 +118,10 @@
 
 <img src="https://i.imgur.com/it0lIXE.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
+- Once you see a Reboot now option on the bottom, that means your installer is complete.
+- You might get an error as shown below, just hit enter to skip it.
 
+<img src="https://i.imgur.com/4F07fD6.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 
 
