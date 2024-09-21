@@ -101,7 +101,16 @@
 
 <img src="https://i.imgur.com/Btm0SpE.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
+- Click on Ubuntu server and Download it.
+- Similar to how we installed previous virtual machines, click on virtual box, and click **New**.
 
+<img src="https://i.imgur.com/gseNtUN.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+
+- I'm keeping the ram as $MB, and 2 core processor, and 100gigs as harddisk, since it will be ingesting logs.
+- Click on Finish, and hit **Start** to power on your Splunk Server.
+- Once the VM starts, continue clicking on the default option till you're presented with the below screen.
+
+<img src="https://i.imgur.com/oySDWDC.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
 
 
