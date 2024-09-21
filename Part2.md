@@ -130,7 +130,7 @@
 
 - We will upgrade and update our splunk server. Use the below command.
 ```Powershell
-- **sudo apt-get update && sudo apt-get upgrade -y**
+sudo apt-get update && sudo apt-get upgrade -y
 ```
 
 
