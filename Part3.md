@@ -8,6 +8,11 @@
 <img src="https://i.imgur.com/YaXFuWs.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 
 - Refer to the diagram in part 1, our network range is 192.168.10.0/24.
-- Once you click on create, enter the range as shown below and our NAT network name. I chose AD-Project. Hit Apply.
+- Click on create, enter the range as shown below and our NAT network name. I chose AD-Project. Hit Apply.
 
 <img src="https://i.imgur.com/YaXFuWs.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
+
+- Next step would be to head over to our Splunk Server, since we need to change the network setting to  **NAT Network**.
+- Choose the Splunk server, followed by settings, Network, and choose **NAT Network** from the drop down as shown below.
+
+<img src="https://i.imgur.com/tvAjKPS.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
