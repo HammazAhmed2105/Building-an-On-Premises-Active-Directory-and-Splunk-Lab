@@ -16,3 +16,5 @@
 - Choose the Splunk server, followed by settings, Network, and choose **NAT Network** from the drop down as shown below.
 
 <img src="https://i.imgur.com/tvAjKPS.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
+
+- Do the above step of changing to NAT Network for all your other VMs, that is Windows server, Active Directory, and Kali.
