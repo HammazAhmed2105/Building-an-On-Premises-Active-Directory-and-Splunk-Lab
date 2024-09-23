@@ -18,3 +18,8 @@
 <img src="https://i.imgur.com/tvAjKPS.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 
 - Do the above step of changing to NAT Network for all your other VMs, that is Windows server, Active Directory, and Kali.
+- Start your splunk server.
+- Enter the command  **ip a**. We can see the IP address of our splunk, as shown below.
+
+<img src="https://i.imgur.com/XEMnKd2.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
+- We will be setting a static IP address, taking the exact IP from our Diagram from Part 1.
