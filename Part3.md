@@ -18,8 +18,53 @@
 <img src="https://i.imgur.com/tvAjKPS.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 
 - Do the above step of changing to NAT Network for all your other VMs, that is Windows server, Active Directory, and Kali.
+
+# -----
+
+## Setting up Splunks IP
+
 - Start your splunk server.
 - Enter the command  **ip a**. We can see the IP address of our splunk, as shown below.
 
 <img src="https://i.imgur.com/XEMnKd2.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
-- We will be setting a static IP address, taking the exact IP from our Diagram from Part 1.
+- We will be setting a static IP address, taking the exact IP from our Diagram from Part 1, that is 192.168.10.10
+- Enter the below command-
+- **NOTE** - Press tab after typing **netplan/**. This will help you auto complete the next available file.
+```Powershell
+sudo nano /etc/netplan/
+```
+- We will be presented with a screen
+
+<img src="https://i.imgur.com/4anTYiO.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
+
+- Use the arrows on your keyboard to navigate and set up everything as I have shown below.
+
+<img src="https://i.imgur.com/XxRIenX.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
+
+- **Note** - Type in nameservers with an s, and not name server.
+- To save the config, hit CTRL+X, you will be prompted with a confirmation, enter Y, and hit Enter.
+- To appy the configurations enter the command
+```powershell
+sudo netplan apply
+```
+- Enter **ip a** again to check the ip address and it should be changed to 192.168.10.10
+<img src="https://i.imgur.com/B6NKPJr.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
