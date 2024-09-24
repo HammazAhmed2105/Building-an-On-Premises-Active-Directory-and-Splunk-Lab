@@ -56,6 +56,11 @@ sudo netplan apply
 
 <img src="https://i.imgur.com/8J6huI2.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 
+- Look for the Splunk Enterprise version, and hit **Get my free Trial**.
+- Register with your details.
+- Once you're shown the below screen, click on Linux and download the **.deb** file.
+
+<img src="https://i.imgur.com/jeWrQ6Y.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 
 
 
