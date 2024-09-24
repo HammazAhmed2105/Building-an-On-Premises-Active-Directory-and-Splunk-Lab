@@ -50,6 +50,8 @@ sudo netplan apply
 - Enter **ip a** again to check the ip address and it should be changed to 192.168.10.10
 <img src="https://i.imgur.com/B6NKPJr.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 
+# -----
+
 ## Installing Splunk
 
 - Head over the Splunk.com, and register with your email id. Click on Products, followed by Free Trials & Downloads.
@@ -62,7 +64,11 @@ sudo netplan apply
 
 <img src="https://i.imgur.com/jeWrQ6Y.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 
-
+### Installing Guest Ad-ons on our Splunk VM.
+- Type in the below command
+```powershell
+sudo apt-get install virtualbox-guest-additions-iso
+```
 
 
 
