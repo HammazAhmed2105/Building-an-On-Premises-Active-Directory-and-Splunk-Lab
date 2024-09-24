@@ -50,9 +50,11 @@ sudo netplan apply
 - Enter **ip a** again to check the ip address and it should be changed to 192.168.10.10
 <img src="https://i.imgur.com/B6NKPJr.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 
+## Installing Splunk
 
+- Head over the Splunk.com, and register with your email id. Click on Products, followed by Free Trials & Downloads.
 
-
+<img src="https://i.imgur.com/8J6huI2.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 
 
 
