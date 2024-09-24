@@ -69,7 +69,9 @@ sudo netplan apply
 ```powershell
 sudo apt-get install virtualbox-guest-additions-iso
 ```
+- Once the installation is done, head over to Devices, Shared folder, and click on Shared fodler settings, as shwon below.
 
+<img src="https://i.imgur.com/FnDrPNX.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 
 
 
