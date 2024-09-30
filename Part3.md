@@ -89,7 +89,7 @@ sudo apt-get install virtualbox-guest-utils
 ```powershell
 sudo adduser hammaz vboxsf
 ```
-
+<img src="https://i.imgur.com/Q5L4tfE.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 
 
 
