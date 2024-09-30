@@ -91,7 +91,16 @@ sudo adduser hammaz vboxsf
 ```
 <img src="https://i.imgur.com/Q5L4tfE.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 
+- create a new directory by typing "mkdir share"
+- type "exit", and log back in. This will make sure out added user has taken effect.
+## Mounting our shared folder of Active directory to this nely created "share" folder.
 
+```powershell
+sudo mount -t vboxsf -o uid=1000,gid=1000 AD-Project share/
+```
+- Make sure you use the folder name of "AD-Project" according to what name you have. If you want to double check, go to devices, and clikc shared folder settings as shown belo.
+
+<img src="https://i.imgur.com/E8fZhJu.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 
 
 
