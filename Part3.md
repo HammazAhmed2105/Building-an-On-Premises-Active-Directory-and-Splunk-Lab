@@ -69,11 +69,12 @@ sudo netplan apply
 ```powershell
 sudo apt-get install virtualbox-guest-additions-iso
 ```
-- Once the installation is done, head over to Devices, Shared folder, and click on Shared fodler settings, as shwon below.
+- Once the installation is done, head over to Devices, Shared folder, and click on Shared fodler settings, as shown below.
 
 <img src="https://i.imgur.com/FnDrPNX.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 
-
+- Right click on the "Plus" icon, and as for the folder path, choose wehre you saved your splunk instance. Check the box for Read-Only and Auto mount.
+<img src="https://i.imgur.com/rb8huJn.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 
 
 
