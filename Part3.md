@@ -112,6 +112,10 @@ sudo dpkg -i splunk
 - after typing splunk in the above command, hit enter to autofill.
 <img src="https://i.imgur.com/Zm2ANUD.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 
+- Give it sometime and splunk will be installed.
+- Once done, it will show "complete" to indicate splunk has been correctly installed.
+
+
 
 
 
