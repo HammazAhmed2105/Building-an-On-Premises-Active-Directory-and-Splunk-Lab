@@ -105,6 +105,26 @@ sudo mount -t vboxsf -o uid=1000,gid=1000 AD-Project share/
 
 <img src="https://i.imgur.com/jL1zdjt.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 
+## Installing Splunk
+```powershell
+sudo dpkg -i splunk
+```
+- after typing splunk in the above command, hit enter to autofill.
+<img src="https://i.imgur.com/Zm2ANUD.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
