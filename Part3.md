@@ -76,7 +76,19 @@ sudo apt-get install virtualbox-guest-additions-iso
 - Right click on the "Plus" icon, and as for the folder path, choose wehre you saved your splunk instance. Check the box for Read-Only and Auto mount.
 <img src="https://i.imgur.com/rb8huJn.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 
+- Head back to your splunk CLI, and enter "sudo reboot".
+  
+## Adding user to the VBoxsf group.
 
+- Use the command below to download guest-utils
+```powershell
+sudo apt-get install virtualbox-guest-utils
+```
+- reboot using "sudo reboot"
+- Now to add our user, for me its "hammaz", we use the below command.
+```powershell
+sudo adduser hammaz vboxsf
+```
 
 
 
