@@ -101,6 +101,9 @@ sudo mount -t vboxsf -o uid=1000,gid=1000 AD-Project share/
 - Make sure you use the folder name of "AD-Project" according to what name you have. If you want to double check, go to devices, and clikc shared folder settings as shown belo.
 
 <img src="https://i.imgur.com/E8fZhJu.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
+- I used cd and ls to change and list the contents of my share folder. As shown below, we succesfully mounted everything.
+
+<img src="https://i.imgur.com/jL1zdjt.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 
 
 
