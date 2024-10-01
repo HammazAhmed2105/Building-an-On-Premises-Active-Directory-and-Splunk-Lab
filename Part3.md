@@ -115,7 +115,21 @@ sudo dpkg -i splunk
 - Give it sometime and splunk will be installed.
 - Once done, it will show "complete" to indicate splunk has been correctly installed.
 
-
+## Running the splunk Installer
+- Splunk is located in the opt folder. we can use cd to change into the splunk folder.
+```powershell
+cd /opt/splunk
+```
+- to change to the user as splunk we use
+```powershell
+sudo -u splunk bash
+```
+- change the to bin directory and start splunk
+```powershell
+cd bin
+./ splunk start
+```
+<img src="https://i.imgur.com/6xukzV5.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 
 
 
