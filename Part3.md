@@ -130,7 +130,10 @@ cd bin
 ./ splunk start
 ```
 <img src="https://i.imgur.com/6xukzV5.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
+- Keep hitting space to read or skip the terms and condition, and then choose a username and password of your choice.
+- Once we are shown the below screen, the installtion is done.
 
+<img src="https://i.imgur.com/sEvcGF6.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 
 
 
