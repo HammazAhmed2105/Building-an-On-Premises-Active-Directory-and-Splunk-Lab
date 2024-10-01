@@ -134,8 +134,14 @@ cd bin
 - Once we are shown the below screen, the installtion is done.
 
 <img src="https://i.imgur.com/sEvcGF6.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
+- If you want that splunk starts everytime your virtual machine reboots, use the below commands.
 
-
+```powershell
+exit
+cd bin
+sudo ./splunk enable boot-start -user splunk
+```
+<img src="https://i.imgur.com/sEvcGF6.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 
 
 
