@@ -143,6 +143,7 @@ sudo ./splunk enable boot-start -user splunk
 ```
 <img src="https://i.imgur.com/sEvcGF6.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 
+# Setting up Splunk Forwarder and Sysmon on our target machine
 
 
 
