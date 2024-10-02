@@ -77,6 +77,8 @@ sudo apt-get install virtualbox-guest-additions-iso
 <img src="https://i.imgur.com/rb8huJn.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 
 - Head back to your splunk CLI, and enter "sudo reboot".
+
+# -----
   
 ## Adding user to the VBoxsf group.
 
@@ -93,6 +95,9 @@ sudo adduser hammaz vboxsf
 
 - create a new directory by typing "mkdir share"
 - type "exit", and log back in. This will make sure out added user has taken effect.
+
+# -----
+
 ## Mounting our shared folder of Active directory to this nely created "share" folder.
 
 ```powershell
@@ -143,10 +148,13 @@ sudo ./splunk enable boot-start -user splunk
 ```
 <img src="https://i.imgur.com/sEvcGF6.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 
+# -----
+
 # Setting up Splunk Forwarder and Sysmon on our target machine
 
-
-
+- Start our Target machine VM. And sear h for **PC**
+- Hit Properties, click on **Rename tour PC** change your VM PC name to **Target-Machine**
+<img src="https://i.imgur.com/0zuR6Sm.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 
 
 
